@@ -1,9 +1,10 @@
-# Computational Methods
+# Численные методы
 
-## Домашнее задание № 1
+## Сведения о курсе
 
-[Условия](homework-1/tasks.pdf), [Решение](homework-1)
+Курс читался [Александром Сегалем](https://ntv.ifmo.ru/en/person/3188/segal_aleksandr_solomonovich.htm) в Университете ИТМО в 2020 году (year2017, 6 семестр).
 
-## Домашнее задание № 2
+## Домашние задания
 
-[Условия](homework-2/tasks.pdf), [Решение](homework-2)
+1. Численные методы и итерационные последовательности ([условия](hw01-iterational/tasks.pdf), [решение](hw01-iterational))
+2. Численные методы решения СЛАУ ([условия](hw02-matrix/tasks.pdf), [решение](hw02-matrix)
