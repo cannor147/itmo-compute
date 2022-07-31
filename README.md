@@ -1,10 +1,10 @@
-# Численные методы
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-## Сведения о курсе
+# Numerical Methods
 
-Курс читался [Александром Сегалем](https://ntv.ifmo.ru/en/person/3188/segal_aleksandr_solomonovich.htm) в Университете ИТМО в 2020 году (year2017, 6 семестр).
+Course was designed and taught by [Alexander Segal](https://ntv.ifmo.ru/en/person/3188/segal_aleksandr_solomonovich.htm) at ITMO University in 2020 (year2017, 6th semester).
 
-## Домашние задания
+## Homeworks
 
-1. Численные методы и итерационные последовательности ([условия](hw01-iterational/tasks.pdf), [решение](hw01-iterational))
-2. Численные методы решения СЛАУ ([условия](hw02-matrix/tasks.pdf), [решение](hw02-matrix))
+1. Iterative methods ([statements (ru)](hw01-iterational/tasks.pdf), [solution](hw01-iterational))
+2. Solving systems of linear algebraic equations ([statements (ru)](hw02-matrix/tasks.pdf), [solution](hw02-matrix))
