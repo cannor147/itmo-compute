@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md) [![en](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 
-# Numerical Methods
+# Computational Science
 
 Course was designed and taught by [Alexander Segal](https://ntv.ifmo.ru/en/person/3188/segal_aleksandr_solomonovich.htm) at ITMO University in 2020 (year2017, 6th semester).
 
